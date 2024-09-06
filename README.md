@@ -1,4 +1,4 @@
-# The-War-on-Gaza---A-Humanitarian-Information-Management-System
+# The-War-on-Gaza---A-Humanitarian-Information-Management-System-- PHASE II
 This Java project, titled "The War on Gaza - A Humanitarian Information Management System," aims to enhance a prior system by incorporating advanced object-oriented programming concepts. The project’s main goal is to improve the software using Java’s principles such as classes, inheritance, polymorphism, and file operations. Specifically, the project requires creating abstract classes, implementing interfaces for sorting, introducing exception handling, and applying deep copy mechanisms. The system models families affected by war and involves handling lists of family members, including martyrs and orphans, and managing sorting based on these categories.
 
 Key object-oriented programming concepts play a crucial role in this project:
