@@ -1,0 +1,10 @@
+Family#Fashafshe
+Person#1#Ahmad_Fashafshe#32#Male#Turkye sakarya#0599#LIVE#DAD
+Person#2#Jane_Fashafshe#26#Female#Turkye sakarya#0599#LIVE#MOM
+Person#3#Anas_Fashafshe#5#male#Turkiye sakarya#0599#1/1/2022#fall#Istanbul#MARTYR#son
+Family#yaseen
+Person#4#ahmad_yaseen#40#Male#Ramallah#0599#LIVE#DAD
+Person#5#sara_yaseen#38#Female#Ramallah#0599#LIVE#MOM
+Person#6#Tom_yaseen#10#Male#Ramallah#0599#7/10/2023#accedent#Nablus#MARTYR#son
+Person#7#Samah_yaseen#12#Female#Ramallah#0599#LIVE#DAUGHTER
+Person#8#sameh_yaseen#5#Female#Ramallah#0599#8/10/2023#bomb#Rafah#MARTYR#son
